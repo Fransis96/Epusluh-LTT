@@ -145,5 +145,5 @@ karena **bukan progres baru**
 > Naik di satu kolom, turun di kolom lain,
 > semua harus bisa dijelaskan secara sebab–akibat.
 
-Contoh ini bisa saja keliru, tapi ini salah satu cara yang menurut Admin LTT Provinsi **dapat mengontrol error, mudah ditelusuri dan konsisten**.
+Contoh ini bisa saja keliru, tapi ini salah satu cara yang menurut Admin Provinsi **dapat mengontrol error, mudah ditelusuri dan konsisten**.
 
