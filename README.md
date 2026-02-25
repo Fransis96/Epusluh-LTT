@@ -86,7 +86,7 @@
 
 ### Hari ke-5
 
-Kegiatan: Penanaman benih pada lahan yang sudah diolah **1 Ha**
+**Kegiatan**: Penanaman benih pada lahan yang sudah diolah **1 Ha**
 
 **Laporan LTT:**
 
@@ -105,7 +105,7 @@ karena **bukan progres baru**
 
 ### Contoh: Panen 1 Ha, belum ada rencana lanjutan
 
-Kegiatan:
+**Kegiatan**:
 
 * Panen **1 Ha**
 * Lahan menjadi kosong
