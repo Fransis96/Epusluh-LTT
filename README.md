@@ -18,14 +18,13 @@
 
 ---
 
-## B. Tahap Pelaksanaan & Laporan Harian (Incremental)
+## B. Tahap Pelaksanaan & Laporan Harian
 
-### Hari ke-1
+### Hari ke-1 
 
-Kegiatan: Babat / tebang / pembersihan lahan baru **1 Ha**
+**Kegiatan**: Babat / tebang / pembersihan lahan baru **1 Ha** 
 
-**Laporan LTT:**
-
+**Laporan LTT:**  
 * Realisasi Luas Tambah Tanam: **0**
 * Luas Lahan Bera: **0**
 * Realisasi Luas Olah Lahan: **1**
@@ -38,20 +37,20 @@ Kegiatan: Babat / tebang / pembersihan lahan baru **1 Ha**
 
 ### Hari ke-2
 
-Kegiatan: Tidak ada (istirahat / hujan / dll)
+**Kegiatan**: Tidak ada (istirahat / hujan / dll)
 
 **Laporan LTT:**
 
 * Semua kolom: **0**
 * Keterangan: *“Tidak ada kegiatan lapangan”*
 
-📌 Tidak ada progres baru → **lapor 0 itu BENAR**
+📌 Tidak ada progres baru → **lapor 0**
 
 ---
 
 ### Hari ke-3
 
-Kegiatan: Pembersihan lahan baru **1 Ha**
+**Kegiatan**: Pembersihan lahan baru **1 Ha**
 
 **Laporan LTT:**
 
@@ -68,7 +67,7 @@ Kegiatan: Pembersihan lahan baru **1 Ha**
 
 ### Hari ke-4
 
-Kegiatan: Pembersihan lahan baru **3 Ha**
+**Kegiatan**: Pembersihan lahan baru **3 Ha**
 
 **Laporan LTT:**
 
@@ -144,5 +143,5 @@ Kegiatan:
 > Naik di satu kolom, turun di kolom lain,
 > semua harus bisa dijelaskan secara sebab–akibat.
 
-Contoh ini bisa saja keliru, tapi ini salah satu cara yang menurut saya **dapat mengontrol error, mudah ditelusuri dan konsisten**.
+Contoh ini bisa saja keliru, tapi ini salah satu cara yang menurut Admin LTT Provinsi **dapat mengontrol error, mudah ditelusuri dan konsisten**.
 
