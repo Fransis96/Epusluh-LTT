@@ -14,7 +14,7 @@
 
 * Potensi LTT bulan berjalan: **5 Ha**
   > Ini **bukan input laporan LTT**  
-  > Ini target desa A di bulan berjalan.
+  > Ini **target desa A di bulan berjalan**.
 
 ---
 
