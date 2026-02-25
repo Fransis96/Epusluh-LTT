@@ -1,7 +1,7 @@
 # PELAPORAN LTT
 
 > [!NOTE]
-> Alur pelaporan LTT ini berdasarkan pemahaman Admin Provinsi megikuti Logika Pusat yang disampaikan pada zoom tanggal 11 Februari 2026.
+> Alur pelaporan LTT ini berdasarkan pemahaman Admin Provinsi mengikuti Logika Pusat yang disampaikan pada zoom tanggal 11 Februari 2026.
 
 
 <br>
