@@ -137,6 +137,8 @@ karena **bukan progres baru**
 6. **Data bersifat berkelanjutan & saling terikat**
 7. **Error bukan dihilangkan, tapi dikontrol**
 
+> **Prinsip ini berlaku dalam konteks bulan berjalan.**
+
 ---
 
 ## E. Penutup
