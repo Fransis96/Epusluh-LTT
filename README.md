@@ -1,6 +1,8 @@
 # PELAPORAN LTT
 
-${\color{Red} \textbf{Alur pelaporan LTT ini Berdasarkan pemahaman Admin Provinsi Megikuti Logika Pusat Yang disampaikan saat zoom pada tanggal 11 Februari.}}$ 
+> [!NOTE]
+> Alur pelaporan LTT ini berdasarkan pemahaman Admin Provinsi megikuti Logika Pusat yang disampaikan saat zoom pada tanggal 11 Februari 2026.
+
 
 <br>
 
