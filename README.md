@@ -6,7 +6,7 @@
 
 <br>
 
-# Contoh Pelaporan LTT
+# **CONTOH Pelaporan LTT**
 
 ## A. Tahap Pra-Target (Bukan Laporan LTT)
 
