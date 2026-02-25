@@ -1,5 +1,7 @@
-# Epusluh-LTT
-**Alur pelaporan LTT Berdasarkan pemahaman Admin Provinsi Megikuti Logika Pusat**
+# PELAPORAN LTT
+
+${\color{Red} \textbf{Alur pelaporan LTT ini Berdasarkan pemahaman Admin Provinsi Megikuti Logika Pusat Yang disampaikan saat zoom pada tanggal 11 Februari.}}$ 
+
 <br>
 
 # Contoh Pelaporan LTT
