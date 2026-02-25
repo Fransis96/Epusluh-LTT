@@ -141,9 +141,8 @@ karena **bukan progres baru**
 
 ## E. Penutup
 
-> Data LTT bukan garis lurus, tapi siklus.
-> Naik di satu kolom, turun di kolom lain,
-> semua harus bisa dijelaskan secara sebab–akibat.
+> Data LTT bukan garis lurus, tapi siklus.  
+> Naik di satu kolom, turun di kolom lain, semua harus bisa dijelaskan secara sebab–akibat.
 
 Contoh ini bisa saja keliru, tapi ini salah satu cara yang menurut Admin Provinsi **dapat mengontrol error, mudah ditelusuri dan konsisten**.
 
